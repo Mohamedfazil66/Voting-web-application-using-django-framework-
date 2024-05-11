@@ -1,6 +1,6 @@
 
 
-### Voting Web Application using Django Framework ###
+## Voting Web Application using Django Framework 
 
 ## Introduction
 
